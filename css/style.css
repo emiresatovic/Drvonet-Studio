@@ -1,5 +1,20 @@
 
 
+.slika-proizvodi {
+    padding-top: 8em;
+}
+
+
+.text-proizvodi {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.text-proizvodi2 {
+    font-size: 1.5em;
+    
+}
+
 .footer-boja {
     background-color:#332D2D!important;
     color: white!important;
@@ -69,6 +84,17 @@ body {
     right: 25%;
     text-align: center;
     color: white;   
+}
+
+.text-pozadina-proizvodi  {
+    position: absolute;
+    top: 20%;
+    bottom: 25%;
+    left: 25%;
+    right: 25%;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;   
 }
 
 
