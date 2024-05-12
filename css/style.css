@@ -1,5 +1,24 @@
 
 
+
+
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+span {
+    font-weight: 900;
+    font-size: 1.1em;
+}
+
+.btn a:hover {
+    color: black;
+}
+
+
+
 footer {
     padding-bottom: 1em;
 }
@@ -189,6 +208,7 @@ body {
 .onama-tekst {
     width: 100%;
     padding-right: 20%;
+    text-align: justify;
 }
 
 
