@@ -1,6 +1,8 @@
 
 
-
+.carousel-height {
+    height: 1100px;
+}
 
 
 a {
@@ -19,9 +21,7 @@ span {
 
 
 
-footer {
-    padding-bottom: 1em;
-}
+
 
 .contact-social {
     display: flex;
@@ -96,8 +96,9 @@ footer {
 
 
 .carousel {
-    height: 80%;
-    overflow: hidden; 
+    height: 100%;
+    overflow: hidden;
+    padding-bottom: 4em; 
 }
 
 
