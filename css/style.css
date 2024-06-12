@@ -1,7 +1,10 @@
 
 
+
+
+
 .carousel-height {
-    height: 1100px;
+    height: 100%;
 }
 
 
@@ -81,6 +84,10 @@ span {
 .text-proizvodi {
     font-size: 1.5em;
     font-weight: bold;
+}
+
+.opis-proivodi {
+    font-size: 1.2em;
 }
 
 .text-proizvodi2 {
@@ -264,7 +271,42 @@ body {
         padding-top: 30%;
     }
 
+
+
 }
+
+@media (max-width: 574px) {
+    #navbarNavDropdown {
+        background-color: #faf4ee;
+    
+    }
+
+    .nav-link {
+        color: black;
+    }
+
+    .nav-link:hover {
+        color: black;
+    }
+
+    .nav-link:visited {
+        color: black;
+    }
+
+
+
+    .text-pozadina h1 {
+        font-size: 3em;
+    }
+
+    }
+
+
+    @media (max-width: 300px) {
+        .text-pozadina h1 {
+            font-size: 2.1em;
+        }
+    }
 
 
 
