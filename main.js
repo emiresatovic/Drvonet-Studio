@@ -3,10 +3,10 @@ $(function() {
     $(window).scroll(function () {
         if($(window).scrollTop() <=40){
             navbar.removeClass("navbar-scroll");
-            $(".logo").attr("src", "images/logo & background/DRVONET1-LOGO (2).PNG");
+            $(".logo").attr("src", "DRVONET1-LOGO (2).PNG");
         }else{
             navbar.addClass("navbar-scroll");
-            $(".logo").attr("src", "images/logo & background/DRVONET1-LOGO (1).PNG");   
+            $(".logo").attr("src", "DRVONET1-LOGO (1).PNG");   
         }    
     });    
 });
