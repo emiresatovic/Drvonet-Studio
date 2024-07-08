@@ -22,9 +22,17 @@ span {
     color: black;
 }
 
+.btn-onama:hover a {
+    color: black;
+}
 
 footer {
     margin-top: 7em;
+}
+
+
+.navbar-toggler {
+    background-color: #332D2D;
 }
 
 
